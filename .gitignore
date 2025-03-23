@@ -1,0 +1,16 @@
+# Ignore PowerShell module files and temporary files
+*.psd1
+*.psm1
+*.tmp
+*.log
+
+# Ignore editor backup files
+*~
+
+# If you have any build artifacts or output directories, list them here
+# Example: 
+# /output/
+
+# OS-specific files (these may vary; adjust as necessary)
+.DS_Store       # macOS
+Thumbs.db       # Windows
